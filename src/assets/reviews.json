@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Roasted Naga Ketchup",
+    "recommended": 1,
+    "burn": 4,
+    "comment": "Well balanced hotness. Can be used in \"Ketchup amounts\" without becoming too hot.",
+    "tags": ["sauce", "chili", "naga", "ketchup"],
+    "image": "",
+    "link": "https://www.kryddlandet.se/nyheter/roasted-naga-ketchup/"    
+  },
+
+  {
+    "title": "Carolina Reaper Sauce",
+    "recommended": 1,
+    "burn": 2,
+    "comment": "Very nice to mix into other sauce to add a bit of burn",
+    "tags": ["sauce", "chili", "encona"],
+    "image": "",
+    "link": "https://www.kryddlandet.se/chili/heta-chilisaser/carolina-reaper-sauce-encona/"
+  },
+
+  {
+    "title": "Chipotle Hot Sauce",
+    "recommended": -1,
+    "burn": 1,
+    "comment": "Very smoky taste. So far found nothing it fits with.",
+    "tags": ["sauce", "chili", "chipotle", "smoke", "popamies"],
+    "image": "",
+    "link": "https://www.kryddlandet.se/chili/heta-chilisaser/chipotle-hot-sauce-poppamies/"
+  },
+
+  {
+    "title": "Lousiana Cajun",
+    "recommended": 0,
+    "burn": 1,
+    "comment": "A bit sour. Fits great with e.g. Bolognese",
+    "tags": ["sauce", "chili", "sour", "encona"],
+    "image": "",
+    "link": "https://www.kryddlandet.se/chili/heta-chilisaser/lousiana-cajun-encona/"
+  },
+
+  {
+    "title": "Magnum vit bägare",
+    "recommended": 1,
+    "burn": 0,
+    "comment": "Very rich in white chocolate, including a chocolate shell on top and bottom, and pieces mixed in with the cream.",
+    "tags": ["ice cream", "chocolate", "gb"],
+    "image": "",
+    "link": ""
+  }
+]
