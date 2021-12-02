@@ -1,8 +1,8 @@
 [
   {
-    "title": "Roasted Naga Ketchup",
+    "title": "Hot Headz - Roasted Naga Ketchup",
     "recommended": 1,
-    "burn": 4,
+    "burn": 3,
     "comment": "Well balanced hotness. Can be used in \"Ketchup amounts\" without becoming too hot.",
     "tags": ["sauce", "chili", "naga", "ketchup"],
     "image": "",
@@ -10,33 +10,83 @@
   },
 
   {
-    "title": "Carolina Reaper Sauce",
+    "title": "Encona - Carolina Reaper Sauce",
     "recommended": 1,
     "burn": 2,
-    "comment": "Very nice to mix into other sauce to add a bit of burn",
+    "comment": "Very nice to mix into other sauce to add a bit of hotness",
     "tags": ["sauce", "chili", "encona"],
     "image": "",
     "link": "https://www.kryddlandet.se/chili/heta-chilisaser/carolina-reaper-sauce-encona/"
   },
 
   {
-    "title": "Chipotle Hot Sauce",
-    "recommended": -1,
+    "title": "Poppamies - Chipotle Hot Sauce",
+    "recommended": 0,
     "burn": 1,
-    "comment": "Very smoky taste. So far found nothing it fits with.",
+    "comment": "Smoky taste. No real hotness, but can give a nice taste in some food",
     "tags": ["sauce", "chili", "chipotle", "smoke", "popamies"],
     "image": "",
     "link": "https://www.kryddlandet.se/chili/heta-chilisaser/chipotle-hot-sauce-poppamies/"
   },
 
   {
-    "title": "Lousiana Cajun",
+    "title": "Encona - Lousiana Cajun",
     "recommended": 0,
     "burn": 1,
     "comment": "A bit sour. Fits great with e.g. Bolognese",
     "tags": ["sauce", "chili", "sour", "encona"],
     "image": "",
     "link": "https://www.kryddlandet.se/chili/heta-chilisaser/lousiana-cajun-encona/"
+  },
+
+  {
+    "title": "Skånsk Chili - Sriracha",
+    "recommended": 1,
+    "burn": 1,
+    "comment": "Fruity taste. Fantastic with asian food and Pelmeni."
+    "tags": ["sauce", "chili", "skånsk chili"],
+    "image": "",
+    "link": ""
+  },
+
+  {
+    "title": "Skånsk Chili - Scorpion Inferno",
+    "recommended": 0,
+    "burn": 4,
+    "comment": "Very hot. Can make anything hot without adding too much taste."
+    "tags": ["sauce", "chili", "skånsk chili"],
+    "image": "",
+    "link": ""
+  },
+
+  {
+    "title": "Hot Headz - Naga peanuts",
+    "recommended": -1,
+    "burn": 2,
+    "comment": "A bit hot, but taste is really boring. Normal salted peanuts taste better.",
+    "tags": ["chili", "ghost pepper", "hot headz", "peanuts", "nuts"],
+    "image": "",
+    "link": "https://www.kryddlandet.se/chili/naga-peanuts-who-dare-burns/"
+  },
+
+  {
+    "title": "Mrs. Renfro's Ghost Pepper Salsa",
+    "recommended": 1,
+    "burn": 3,
+    "comment": "Hot and tasty. Fits with many things. Excellent with taco. Hotness seems additive: if you eat two tacos with the same amount of salsa, the second one will be way hotter."
+    "tags": ["chili", "salsa", "mrs renfros"],
+    "image": "",
+    "link": "https://www.kryddlandet.se/smaksattare/renfros-ghost-pepper-salsa/"
+  },
+
+  {
+    "title": "Poppamies Scotch Bonnet",
+    "recommended": 0,
+    "burn": 1,
+    "comment": "A bit sour. Works ok with many things, but can't find any food where it really shines."
+    "tags": ["chili", "sauce", "poppamies", "scotch bonnet"],
+    "image": "",
+    "link": "https://www.kryddlandet.se/chili/heta-chilisaser/scotch-bonnet-poppamies/"
   },
 
   {
