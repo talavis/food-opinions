@@ -4,7 +4,7 @@
     "recommended": 1,
     "burn": 3,
     "comment": "Well balanced hotness. Can be used in \"Ketchup amounts\" without becoming too hot.",
-    "tags": ["sauce", "chili", "naga", "ketchup"],
+    "tags": ["sauce", "chili", "naga", "ghost pepper", "ketchup"],
     "image": "",
     "link": "https://www.kryddlandet.se/nyheter/roasted-naga-ketchup/"    
   },
@@ -24,7 +24,7 @@
     "recommended": 0,
     "burn": 1,
     "comment": "Smoky taste. No real hotness, but can give a nice taste in some food",
-    "tags": ["sauce", "chili", "chipotle", "smoke", "popamies"],
+    "tags": ["sauce", "chili", "chipotle", "smoke", "poppamies"],
     "image": "",
     "link": "https://www.kryddlandet.se/chili/heta-chilisaser/chipotle-hot-sauce-poppamies/"
   },
@@ -40,21 +40,21 @@
   },
 
   {
-    "title": "Skånsk Chili - Sriracha",
+    "title": "Sk\\u00e5nsk Chili - Sriracha",
     "recommended": 1,
     "burn": 1,
-    "comment": "Fruity taste. Fantastic with asian food and Pelmeni."
-    "tags": ["sauce", "chili", "skånsk chili"],
+    "comment": "Fruity taste. Fantastic with Asian food and Pelmeni.",
+    "tags": ["sauce", "chili", "sk\\u00e5nsk chili"],
     "image": "",
     "link": ""
   },
 
   {
-    "title": "Skånsk Chili - Scorpion Inferno",
+    "title": "Sk\\u00e5nsk Chili - Scorpion Inferno",
     "recommended": 0,
     "burn": 4,
-    "comment": "Very hot. Can make anything hot without adding too much taste."
-    "tags": ["sauce", "chili", "skånsk chili"],
+    "comment": "Very hot. Can make anything hot without adding too much taste.",
+    "tags": ["sauce", "chili", "sk\\u00e5nsk chili"],
     "image": "",
     "link": ""
   },
@@ -73,7 +73,7 @@
     "title": "Mrs. Renfro's Ghost Pepper Salsa",
     "recommended": 1,
     "burn": 3,
-    "comment": "Hot and tasty. Fits with many things. Excellent with taco. Hotness seems additive: if you eat two tacos with the same amount of salsa, the second one will be way hotter."
+    "comment": "Hot and tasty. Fits with many things. Excellent with taco. Hotness seems additive: if you eat two tacos with the same amount of salsa, the second one will be way hotter.",
     "tags": ["chili", "salsa", "mrs renfros"],
     "image": "",
     "link": "https://www.kryddlandet.se/smaksattare/renfros-ghost-pepper-salsa/"
@@ -83,7 +83,7 @@
     "title": "Poppamies Scotch Bonnet",
     "recommended": 0,
     "burn": 1,
-    "comment": "A bit sour. Works ok with many things, but can't find any food where it really shines."
+    "comment": "A bit sour. Works ok with many things, but can't find any food where it really shines.",
     "tags": ["chili", "sauce", "poppamies", "scotch bonnet"],
     "image": "",
     "link": "https://www.kryddlandet.se/chili/heta-chilisaser/scotch-bonnet-poppamies/"
