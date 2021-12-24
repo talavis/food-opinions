@@ -1,8 +1,8 @@
 {
-  "name": "food-review",
+  "name": "food-opinions",
   "version": "0.0.1",
-  "description": "Listing of reviews of e.g. hot sauces.",
-  "productName": "Food Review",
+  "description": "Opinions about the taste of e.g. hot sauces.",
+  "productName": "Food Opinions",
   "author": "Linus Östberg <linus@oestberg.dev>",
   "private": true,
   "scripts": {
