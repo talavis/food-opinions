@@ -80,16 +80,6 @@
   },
 
   {
-    "title": "Poppamies Scotch Bonnet",
-    "recommended": 0,
-    "burn": 1,
-    "comment": "A bit sour. Works ok with many things, but can't find any food where it really shines.",
-    "tags": ["chili", "sauce", "poppamies", "scotch bonnet"],
-    "image": "",
-    "link": "https://www.kryddlandet.se/chili/heta-chilisaser/scotch-bonnet-poppamies/"
-  },
-
-  {
     "title": "Magnum vit bägare",
     "recommended": 1,
     "burn": 0,
@@ -97,5 +87,37 @@
     "tags": ["ice cream", "chocolate", "gb"],
     "image": "",
     "link": ""
-  }
+  },
+
+  {
+    "title": "Samyang Extreme Buldak Sauce",
+    "recommended": 1,
+    "burn": 2,
+    "comment": "Nice to fry food in and to mix with noodles.",
+    "tags": ["sauce", "buldak", "samyang"],
+    "image": "",
+    "link": "",
+  },
+
+  {
+    "title": "Encona Extra Hot West Indian Hot Pepper Sauce",
+    "recommended": 0,
+    "burn": 2,
+    "comment": "Hotness similar to the Encona Carolina reaper sauce, but with different spices. Not a big fan.",
+    "tags": ["sauce", "encona", "naga jolokia", "ghost pepper"],
+    "image": "",
+    "link": "",
+  },
+
+  {
+    "title": "Poppamies - Sriracha",
+    "recommended": 0,
+    "burn": 1,
+    "comment": "Ok sauce to Asian style food. Nothing special.",
+    "tags": ["sauce", "sriracha", "poppamies"],
+    "image": "",
+    "link": ""
+  },
 ]
+
+
