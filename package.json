@@ -10,9 +10,13 @@
     "test": "echo \"No test specified\" && exit 0"
   },
   "dependencies": {
+    "@babel/core": "^7.17.9",
     "@quasar/extras": "^1.0.0",
     "core-js": "^3.6.5",
-    "quasar": "^2.0.0"
+    "quasar": "^2.0.0",
+    "vue": "^3.2.33",
+    "vue-router": "^4.0.14",
+    "webpack": "^5.72.0"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.13.14",
